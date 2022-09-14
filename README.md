@@ -1,0 +1,1 @@
+# altinn-access-policies
